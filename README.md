@@ -1,4 +1,4 @@
-# Tricky-tac-toe
+# Impossible tic-tac-toe
 
 A simple game of tic-tac-toe except its against an AI 🤖 that will never lose!
 <br>
